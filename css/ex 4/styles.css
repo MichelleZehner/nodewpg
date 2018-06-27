@@ -2,4 +2,4 @@
 #login {color:gray}
 .red {color:red}
 label, selector {color:pink}
-[button="select"]{color:brown}
+input[type="submit"]{color:brown}
