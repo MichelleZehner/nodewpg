@@ -1,0 +1,32 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+body {font-size: 16px;}
+body {font-weight:bold;}
+
+h1 {font-size: 2em;}
+h1, h2 {color: #ddd;}
+h1, h2 {text-shadow:1px 2px 3px #666;}
+h1, h2 {text-transform: uppercase;}
+
+h2 {font-size: 1.5em;}
+
+p {text-indent: 0.8em;}
+p {line-height: 1.4 em;}
+
+.main {text-align:justify;}
+.bold {font-weight:bold; color:red;}
+.last {text-align:right; color: red;}
+.wrong {text-decoration-line: line-through; font-size: 1.2em; font-weight: 700}
+.google {font-family: Merriweather family; font-size:1.6 em; color: purple;}
+
+#quote {letter-spacing: 2px;}
+#quote {font-style: italic;}
+#quote {color: darkcyan;}
+
+
+
+
+
+
+
+
+
