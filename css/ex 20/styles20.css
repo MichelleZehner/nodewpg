@@ -13,9 +13,9 @@
     line-height: 200px;
     box-shadow: 0 2px 1px #777;
     text-shadow: 0 2px 1px #777;}
-.container div: hover {
+.container div:hover {
     border-radius: 10px;
-    background-color: #ddd;}
+    background-color: #ddd; }
 .container div:first-child {
     top: 0px;
     left: 200px;
