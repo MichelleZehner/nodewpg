@@ -30,7 +30,7 @@ nav .links {
 nav .home {
     width: 10%;
     text-shadow: 0px 1px 5px #444;}
-nav .home {
+nav .home>a {
     font-size:24px;}
 .main {
     font-size: 16px;
