@@ -13,26 +13,28 @@ h2 {
     text-shadow: 1px 2px 3px #666;}
 .class {
     padding: 20px;}
-div p {text-align: justify;}
+.class p {
+    text-align: justify;}
 .Overflow {
+    height: 150px;
     overflow-y: scroll;}
 footer {
-    color: white;
+    background-color: black;
     padding: 10px;
     text-align: center;}
-footer: link {
+footer a {
     color: white;
     text-decoration: none;
     font-size: 1.2em;
     border-right: 1px solid white;
     margin-right: 10px;
     padding-right: 10px;}
-link: hover {
+a:hover {
     color: gray;
     text-decoration: underline;
-    text: bold;}
+    font: bold;}
 
-link:last-child {
+a:last-child {
     border-right: none;}
 .news {
     margin-top: 20px;
