@@ -1,6 +1,8 @@
 
 const showName = function () {
- console.log('Michelle');
+    console.log('============');
+    console.log('==Michelle==');
+    console.log('============')
 }
 
 showName();

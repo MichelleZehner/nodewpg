@@ -1,11 +1,15 @@
-function getUserId(); {
+function getUserID() {
     return 50;
-}
-function isUserValid(); {
+  }
+  
+  function isUservalid() {
     return true;
-}
-if (getUserId () <= 30) {
-    console.log('User valid')
-   }   else {
-       console.log('User not valid')
-   }
+  }
+  
+  if (getUserID() > 30) {
+    console.log('The user is valid');
+  }
+  
+  else {
+    console.log('The user is not valid');
+  }
