@@ -1,0 +1,18 @@
+{
+  "name": "ex_10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index10.js",
+    "one-liner-joke": "one-line-jokejs index.js --output index10.js"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "one-liner-joke": "^1.0.0"
+  }
+}

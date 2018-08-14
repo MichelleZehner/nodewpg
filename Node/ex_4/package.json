@@ -1,0 +1,16 @@
+{
+  "name": "ex_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index4.js",
+    "one-liner-joke": "one-line-jokejs index.js --output index4.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "one-liner-joke": "^1.0.0"
+  }
+}
