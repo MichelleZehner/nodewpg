@@ -3,7 +3,7 @@ const app = express();
 
 app.set('view engine', 'pug');
 
-app.get('/', (req, res) => {
+app.post('/', (req, res) => {
   res.render('index', { title: 'Hey', message: 'Hello there!' });
 });
 
